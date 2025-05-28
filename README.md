@@ -1,8 +1,6 @@
 # Desafio-3
 Configurar y utilizar roles de AWS IAM desde la línea de comandos (CLI) para permitir la escritura en un bucket de S3.
 
-# Configuración de AWS IAM para escritura en S3 desde CLI
-
 ## Objetivo  
 Aprender a configurar y utilizar roles de AWS IAM desde la línea de comandos (CLI) para permitir la escritura en un bucket de S3.
 
